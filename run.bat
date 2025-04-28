@@ -1,0 +1,2 @@
+python SmartIrrigation.py
+pause
